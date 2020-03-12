@@ -1,4 +1,7 @@
 
+let ds = {};
+
+
 /* 
   - Add __doc__ as a native property for Object & Function 
 */
