@@ -39,7 +39,7 @@ this.setDocString("My docstring")
 
 ```javascript
 
-//Pass a string literal in arr[x][0] and the .__doc__ value at arr[x][1].  
+//Pass a variable name in arr[x][0] and the .__doc__ value at arr[x][1].  
 
 ds.setDocStrings(
   [
